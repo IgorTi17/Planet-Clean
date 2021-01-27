@@ -1,0 +1,38 @@
+.relato{
+	background: red;
+	border-radius: 50px;
+}
+
+.relato span{
+	color: #ffffff;
+}
+
+.form{
+	background: rgb(242, 243, 244);
+	padding: 15px; 0;
+	border-radius: 20px;
+}
+
+table td, table th {
+    text-align: center;
+    padding: 2px 5px;
+}
+
+
+table{
+	margin: 0 auto;
+	border: 1px solid;
+	width: 60%;
+}
+
+td{
+	border: 1px solid;
+}
+
+th{
+	border: 1px solid;
+}
+
+button{
+
+}
